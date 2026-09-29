@@ -1,0 +1,251 @@
+product_id,category,sub_category,brand,mrp,cost_price,shelf_life_days,supplier_id
+P001,Frozen,Ice Cream,GlowCare,36.88,23.02,60.0,SUP04
+P002,Frozen,Ice Cream,FizzUp,305.48,170.64,60.0,SUP08
+P003,Household,Detergent,PureLife,291.59,216.75,180.0,SUP08
+P004,Personal Care,Toothpaste,Crispo,409.48,225.93,365.0,SUP14
+P005,Snacks,Namkeen,CoolBite,98.85,79.92,30.0,SUP03
+P006,beverages,Shampoo,FreshHome,195.52,125.69,730.0,SUP02
+P007,BEVERAGES,Frozen Meat,DailyChoice,279.71,227.33,30.0,SUP18
+P008,Snacks,Namkeen,Aavin,299.24,221.51,365.0,SUP08
+P009,Grocery,Oil,FizzUp,492.98,384.99,180.0,SUP09
+P010,Personal Care,Toothpaste,FreshHome,102.26,66.05,365.0,SUP03
+P011,Household,Cleaner,NovaFresh,278.72,171.72,180.0,SUP09
+P012,Frozen,Frozen Snacks,Aavin,350.19,272.3,60.0,SUP02
+P013,Grocery,Oil,HomePlus,215.55,122.4,365.0,SUP11
+P014,Beverages,Energy Drink,NovaFresh,212.93,169.69,60.0,SUP09
+P015,Beverages,Juice,HomePlus,378.87,263.51,180.0,SUP19
+P016,Personal Care,Toothpaste,PureLife,129.18,105.84,180.0,SUP03
+P017,Grocery,Rice,Crispo,434.02,256.62,730.0,SUP14
+P018,Household,Detergent,NovaFresh,207.76,147.69,240.0,SUP09
+P019,Household,Detergent,PureLife,348.13,202.24,730.0,SUP09
+P020,Grocery,Oil,NovaFresh,77.99,52.05,30.0,SUP09
+P021,Household,Cleaner,FreshHome,-50.0,154.03,730.0,SUP17
+P022,Household,Cleaner,PureLife,97.6,600.0,730.0,SUP17
+P023,Dairy,Butter,CoolBite,257.09,149.16,,SUP10
+P024,Beverages,Soft Drink,FizzUp,139.41,98.03,30.0,SUP16
+P025,Grocery,Rice,Crispo,489.54,339.66,60.0,SUP16
+P026,Household,Cleaner,DailyChoice,150.9,118.54,60.0,SUP18
+P027,Grocery,Pulses,CoolBite,363.65,239.18,180.0,SUP17
+P028,Personal Care,Shampoo,Aavin,142.76,80.99,240.0,SUP18
+P029,Beverages,Juice,Aavin,28.42,21.06,60.0,SUP03
+P030,Dairy,Butter,NovaFresh,58.66,36.03,60.0,SUP18
+P031,Beverages,Energy Drink,DailyChoice,140.42,95.16,60.0,SUP04
+P032,Dairy,Cheese,Aavin,193.29,127.76,365.0,SUP04
+P033,Dairy,Cheese,FizzUp,370.9,284.17,60.0,SUP07
+P034,Beverages,Energy Drink,NovaFresh,91.59,54.91,60.0,SUP03
+P035,Personal Care,Shampoo,Aavin,49.03,40.2,30.0,SUP08
+P036,Beverages,Energy Drink,DailyChoice,255.68,155.38,30.0,SUP06
+P037,Personal Care,Shampoo,NovaFresh,493.02,306.46,90.0,SUP14
+P038,Frozen,Frozen Meat,Aavin,98.53,62.08,240.0,SUP18
+P039,Dairy,Butter,PureLife,52.15,36.91,730.0,SUP17
+P040,Beverages,Soft Drink,Crispo,481.37,275.17,30.0,SUP20
+PXXX,Dairy,Curd,HomePlus,216.79,174.35,60.0,SUP19
+PXXX,Dairy,Curd,HomePlus,216.79,174.35,60.0,SUP19
+P043,Snacks,Namkeen,GlowCare,122.02,90.71,90.0,SUP13
+P044,Beverages,Water,FizzUp,242.18,193.95,30.0,SUP15
+P045,Household,Detergent,FreshHome,59.8,36.33,60.0,SUP12
+P046,Dairy,Curd,PureLife,200.53,118.83,365.0,SUP10
+P047,Household,Detergent,FizzUp,342.24,239.48,60.0,SUP09
+P048,Dairy,Milk,FreshHome,377.65,223.56,240.0,SUP07
+P049,Frozen,Frozen Veg,FreshHome,121.71,87.78,240.0,SUP16
+P050,Snacks,Biscuits,FreshHome,68.84,45.73,30.0,SUP01
+P051,Snacks,Chips,NovaFresh,327.63,203.37,240.0,SUP14
+P052,Household,Detergent,Crispo,78.14,62.92,240.0,SUP02
+P053,Grocery,Oil,Crispo,301.69,177.99,30.0,SUP10
+P054,Snacks,Biscuits,GlowCare,451.99,274.23,365.0,SUP04
+P055,Snacks,Chocolate,GlowCare,487.57,366.83,730.0,SUP06
+P056,Grocery,Pulses,CoolBite,443.67,246.99,730.0,SUP14
+P057,Grocery,Pulses,FizzUp,151.73,115.71,180.0,SUP02
+P058,Grocery,Spices,NovaFresh,130.66,100.67,90.0,SUP10
+P059,Grocery,Pulses,DailyChoice,130.89,95.32,90.0,SUP09
+P060,Grocery,Rice,PureLife,484.27,302.84,180.0,SUP18
+P061,Snacks,Biscuits,Crispo,79.79,64.79,240.0,SUP09
+P062,Dairy,Milk,CoolBite,308.37,198.39,180.0,SUP20
+P063,Household,Detergent,FreshHome,207.97,146.76,30.0,SUP14
+P064,Dairy,Curd,CoolBite,198.01,112.65,240.0,SUP11
+P065,Frozen,Ice Cream,FreshHome,366.88,231.53,365.0,SUP14
+P066,Snacks,Chocolate,GlowCare,356.17,249.21,180.0,SUP13
+P067,Frozen,Frozen Snacks,PureLife,317.37,200.34,730.0,SUP01
+P068,Snacks,Namkeen,HomePlus,124.84,95.15,365.0,SUP11
+P069,Personal Care,Lotion,NovaFresh,235.03,142.83,730.0,SUP06
+P070,Frozen,Ice Cream,HomePlus,159.8,116.53,90.0,SUP03
+P071,Grocery,Pulses,GlowCare,344.58,210.42,60.0,SUP01
+P072,Dairy,Curd,FizzUp,492.37,352.07,180.0,SUP14
+P073,Frozen,Frozen Snacks,DailyChoice,366.21,239.38,60.0,SUP05
+P074,Frozen,Ice Cream,FizzUp,449.01,351.27,730.0,SUP14
+P075,Beverages,Juice,NovaFresh,406.95,300.29,30.0,SUP18
+P076,Beverages,Soft Drink,PureLife,241.82,185.33,240.0,SUP20
+P077,Snacks,Chocolate,PureLife,316.01,235.18,180.0,SUP18
+P078,Personal Care,Soap,FreshHome,378.24,256.51,730.0,SUP08
+P079,Grocery,Oil,GlowCare,388.76,268.54,90.0,SUP15
+P080,Dairy,Butter,PureLife,136.38,87.38,30.0,SUP05
+P081,Beverages,Juice,GlowCare,206.94,122.35,30.0,SUP14
+P082,Personal Care,Toothpaste,GlowCare,282.74,187.25,730.0,SUP14
+P083,Personal Care,Shampoo,DailyChoice,431.95,326.86,180.0,SUP01
+P084,Snacks,Namkeen,DailyChoice,382.9,298.83,240.0,SUP18
+P085,Grocery,Pulses,NovaFresh,256.91,160.23,30.0,SUP13
+P086,Snacks,Chocolate,Crispo,368.99,286.68,240.0,SUP18
+P087,Dairy,Cheese,FizzUp,306.15,223.19,365.0,SUP14
+P088,Beverages,Energy Drink,CoolBite,111.32,69.05,60.0,SUP15
+P089,Snacks,Namkeen,DailyChoice,386.58,252.19,90.0,SUP03
+P090,Personal Care,Shampoo,CoolBite,380.79,214.79,60.0,SUP03
+P091,Grocery,Rice,GlowCare,383.26,309.06,730.0,SUP01
+P092,Household,Cleaner,FizzUp,138.31,93.76,240.0,SUP07
+P093,Personal Care,Toothpaste,HomePlus,389.28,231.74,365.0,SUP04
+P094,Grocery,Pulses,Aavin,483.24,279.89,90.0,SUP19
+P095,Frozen,Frozen Meat,FizzUp,213.41,158.58,240.0,SUP08
+P096,Dairy,Butter,FizzUp,428.89,305.42,730.0,SUP19
+P097,Grocery,Rice,CoolBite,189.92,126.42,30.0,SUP17
+P098,Frozen,Frozen Veg,NovaFresh,31.01,20.57,30.0,SUP14
+P099,Snacks,Chocolate,PureLife,360.97,240.98,365.0,SUP09
+P100,Household,Dishwash,HomePlus,245.82,190.01,90.0,SUP11
+P101,Grocery,Pulses,NovaFresh,419.6,240.6,60.0,SUP15
+P102,Household,Dishwash,CoolBite,184.79,126.3,60.0,SUP16
+P103,Beverages,Water,HomePlus,403.97,259.3,365.0,SUP09
+P104,Household,Detergent,GlowCare,270.4,162.67,365.0,SUP14
+P105,Personal Care,Soap,NovaFresh,353.04,255.74,180.0,SUP01
+P106,Dairy,Butter,FreshHome,130.26,95.97,365.0,SUP19
+P107,Snacks,Chocolate,PureLife,287.9,185.07,90.0,SUP12
+P108,Frozen,Frozen Meat,FizzUp,153.69,94.96,365.0,SUP07
+P109,Snacks,Biscuits,Crispo,377.87,304.84,60.0,SUP07
+P110,Frozen,Frozen Meat,PureLife,156.34,110.87,240.0,SUP10
+P111,Dairy,Curd,FreshHome,165.72,107.29,30.0,SUP18
+P112,Beverages,Water,FreshHome,46.62,26.33,365.0,SUP05
+P113,Frozen,Frozen Meat,FreshHome,73.73,40.8,180.0,SUP16
+P114,Personal Care,Toothpaste,NovaFresh,112.57,63.48,30.0,SUP03
+P115,Personal Care,Lotion,Aavin,60.19,43.33,60.0,SUP05
+P116,Grocery,Oil,PureLife,65.46,40.39,730.0,SUP14
+P117,Household,Cleaner,NovaFresh,393.45,256.81,90.0,SUP19
+P118,Personal Care,Toothpaste,FizzUp,295.1,167.1,730.0,SUP07
+P119,Frozen,Frozen Snacks,GlowCare,150.71,86.19,60.0,SUP18
+P120,Dairy,Curd,HomePlus,26.27,17.64,180.0,SUP10
+P121,Dairy,Curd,NovaFresh,161.85,101.37,30.0,SUP08
+P122,Snacks,Chips,Crispo,226.94,158.18,90.0,SUP05
+P123,Dairy,Milk,HomePlus,103.81,65.72,90.0,SUP15
+P124,Dairy,Cheese,FreshHome,352.12,260.19,240.0,SUP18
+P125,Personal Care,Lotion,DailyChoice,63.21,35.45,365.0,SUP11
+P126,Household,Tissues,HomePlus,37.29,22.81,240.0,SUP01
+P127,Grocery,Oil,Crispo,298.72,225.84,180.0,SUP17
+P128,Frozen,Frozen Meat,HomePlus,460.13,275.62,180.0,SUP16
+P129,Dairy,Cheese,FizzUp,190.28,121.78,730.0,SUP06
+P130,Snacks,Chocolate,DailyChoice,354.49,222.56,730.0,SUP18
+P131,Dairy,Cheese,FizzUp,66.83,41.31,730.0,SUP13
+P132,Grocery,Rice,DailyChoice,337.39,234.99,30.0,SUP07
+P133,Household,Tissues,NovaFresh,320.75,219.58,730.0,SUP02
+P134,Beverages,Water,NovaFresh,285.88,228.84,365.0,SUP16
+P135,Dairy,Milk,GlowCare,487.24,348.08,365.0,SUP06
+P136,Snacks,Biscuits,FizzUp,287.32,165.26,180.0,SUP04
+P137,Frozen,Frozen Snacks,PureLife,261.73,194.59,365.0,SUP09
+P138,Personal Care,Lotion,PureLife,490.62,302.13,60.0,SUP13
+P139,Beverages,Juice,DailyChoice,435.41,271.95,90.0,SUP17
+P140,Snacks,Biscuits,HomePlus,159.35,100.49,240.0,SUP16
+P141,Grocery,Pulses,CoolBite,237.11,161.42,240.0,SUP18
+P142,Personal Care,Lotion,GlowCare,468.1,367.36,240.0,SUP13
+P143,Beverages,Energy Drink,DailyChoice,45.73,34.35,180.0,SUP05
+P144,Personal Care,Shampoo,CoolBite,84.97,68.88,730.0,SUP04
+P145,Grocery,Spices,Aavin,72.36,57.59,365.0,SUP05
+P146,Personal Care,Soap,FreshHome,60.54,46.07,90.0,SUP20
+P147,Frozen,Frozen Meat,PureLife,333.67,260.25,180.0,SUP11
+P148,Frozen,Frozen Meat,FizzUp,439.38,245.92,60.0,SUP10
+P149,Beverages,Soft Drink,FizzUp,231.14,133.27,180.0,SUP06
+P150,Frozen,Frozen Veg,Aavin,454.13,255.41,90.0,SUP12
+P151,Snacks,Chocolate,HomePlus,94.15,65.29,365.0,SUP06
+P152,Beverages,Juice,HomePlus,62.51,49.08,365.0,SUP08
+P153,Personal Care,Soap,NovaFresh,135.29,97.71,90.0,SUP01
+P154,Grocery,Spices,Crispo,453.07,332.08,30.0,SUP15
+P155,Snacks,Namkeen,FreshHome,328.5,218.31,180.0,SUP10
+P156,Beverages,Energy Drink,DailyChoice,430.33,249.07,240.0,SUP12
+P157,Household,Tissues,DailyChoice,496.53,312.67,90.0,SUP01
+P158,Household,Detergent,FreshHome,457.54,343.7,730.0,SUP08
+P159,Household,Tissues,FreshHome,129.03,77.59,365.0,SUP05
+P160,Frozen,Ice Cream,FreshHome,454.12,329.02,730.0,SUP15
+P161,Dairy,Butter,FreshHome,372.87,214.15,90.0,SUP14
+P162,Beverages,Juice,CoolBite,87.78,61.06,240.0,SUP17
+P163,Snacks,Chips,NovaFresh,147.06,113.63,730.0,SUP10
+P164,Frozen,Frozen Veg,FizzUp,407.01,275.32,60.0,SUP08
+P165,Grocery,Spices,CoolBite,484.45,371.69,30.0,SUP13
+P166,Dairy,Butter,FreshHome,279.87,188.29,240.0,SUP13
+P167,Grocery,Oil,Aavin,76.46,46.88,240.0,SUP18
+P168,Snacks,Chips,NovaFresh,332.63,240.01,365.0,SUP10
+P169,Frozen,Frozen Meat,Aavin,80.42,45.22,90.0,SUP16
+P170,Dairy,Milk,DailyChoice,136.53,94.91,180.0,SUP12
+P171,Frozen,Frozen Meat,DailyChoice,303.99,226.83,365.0,SUP04
+P172,Grocery,Spices,FreshHome,317.43,255.07,30.0,SUP12
+P173,Beverages,Energy Drink,CoolBite,236.23,144.99,30.0,SUP12
+P174,Household,Tissues,FizzUp,53.76,33.57,730.0,SUP15
+P175,Dairy,Curd,Aavin,329.81,234.57,30.0,SUP11
+P176,Beverages,Juice,PureLife,398.81,241.44,60.0,SUP19
+P177,Beverages,Juice,HomePlus,181.07,106.8,30.0,SUP09
+P178,Grocery,Pulses,Crispo,494.08,343.81,30.0,SUP01
+P179,Beverages,Soft Drink,HomePlus,195.17,148.89,90.0,SUP01
+P180,Beverages,Water,PureLife,49.89,37.43,30.0,SUP03
+P181,Personal Care,Lotion,FizzUp,394.56,271.68,180.0,SUP17
+P182,Beverages,Soft Drink,PureLife,370.44,294.63,90.0,SUP15
+P183,Frozen,Ice Cream,DailyChoice,53.89,36.61,180.0,SUP04
+P184,Personal Care,Lotion,HomePlus,59.91,34.26,60.0,SUP03
+P185,Beverages,Water,CoolBite,321.55,227.67,180.0,SUP20
+P186,Household,Tissues,FizzUp,240.51,171.6,730.0,SUP04
+P187,Grocery,Pulses,DailyChoice,229.28,181.08,90.0,SUP15
+P188,Personal Care,Lotion,CoolBite,371.57,235.72,365.0,SUP09
+P189,Snacks,Chips,FizzUp,351.24,238.16,730.0,SUP03
+P190,Dairy,Cheese,Crispo,70.87,53.12,240.0,SUP02
+P191,Household,Tissues,DailyChoice,343.26,226.87,730.0,SUP02
+P192,Snacks,Namkeen,GlowCare,192.03,135.58,60.0,SUP16
+P193,Beverages,Soft Drink,FizzUp,191.3,133.95,730.0,SUP09
+P194,Household,Cleaner,HomePlus,408.43,317.84,240.0,SUP18
+P195,Dairy,Butter,FreshHome,38.75,24.17,90.0,SUP12
+P196,Dairy,Curd,DailyChoice,438.18,308.0,30.0,SUP05
+P197,Frozen,Ice Cream,DailyChoice,68.58,47.54,180.0,SUP15
+P198,Snacks,Chips,HomePlus,200.78,149.55,240.0,SUP03
+P199,Dairy,Curd,FizzUp,99.77,71.52,90.0,SUP15
+P200,Frozen,Frozen Meat,FreshHome,255.69,171.15,60.0,SUP17
+P201,Dairy,Butter,HomePlus,229.21,143.59,180.0,SUP17
+P202,Frozen,Frozen Veg,HomePlus,46.57,30.58,30.0,SUP01
+P203,Beverages,Water,FreshHome,474.03,358.93,90.0,SUP11
+P204,Dairy,Milk,Crispo,261.26,174.07,180.0,SUP18
+P205,Frozen,Frozen Snacks,CoolBite,262.62,203.53,30.0,SUP13
+P206,Grocery,Rice,FizzUp,232.2,156.53,730.0,SUP11
+P207,Household,Dishwash,DailyChoice,297.36,220.51,90.0,SUP04
+P208,Personal Care,Shampoo,HomePlus,483.94,288.62,180.0,SUP12
+P209,Dairy,Cheese,HomePlus,426.13,262.37,180.0,SUP17
+P210,Dairy,Cheese,GlowCare,438.5,329.47,90.0,SUP06
+P211,Dairy,Milk,CoolBite,277.04,166.88,90.0,SUP05
+P212,Beverages,Soft Drink,HomePlus,94.56,57.04,60.0,SUP03
+P213,Beverages,Energy Drink,HomePlus,245.38,172.31,180.0,SUP19
+P214,Frozen,Frozen Veg,Crispo,435.52,313.29,180.0,SUP03
+P215,Personal Care,Lotion,HomePlus,324.91,248.56,30.0,SUP12
+P216,Household,Detergent,Aavin,172.44,115.88,90.0,SUP10
+P217,Dairy,Milk,NovaFresh,317.13,217.84,240.0,SUP18
+P218,Grocery,Rice,GlowCare,238.62,183.42,90.0,SUP20
+P219,Personal Care,Soap,CoolBite,479.92,322.33,365.0,SUP03
+P220,Household,Cleaner,NovaFresh,43.59,32.3,240.0,SUP17
+P221,Household,Cleaner,DailyChoice,197.85,157.85,180.0,SUP11
+P222,Frozen,Ice Cream,FizzUp,399.88,289.82,90.0,SUP04
+P223,Household,Dishwash,HomePlus,159.97,119.24,730.0,SUP05
+P224,Snacks,Biscuits,CoolBite,301.8,177.51,90.0,SUP13
+P225,Beverages,Soft Drink,CoolBite,172.05,112.13,730.0,SUP05
+P226,Frozen,Ice Cream,CoolBite,331.86,220.46,30.0,SUP12
+P227,Snacks,Chips,NovaFresh,476.81,306.24,60.0,SUP08
+P228,Beverages,Juice,FizzUp,61.65,47.96,240.0,SUP18
+P229,Grocery,Rice,HomePlus,339.42,267.0,60.0,SUP20
+P230,Personal Care,Soap,HomePlus,102.07,79.05,730.0,SUP06
+P231,Frozen,Frozen Meat,GlowCare,45.75,29.66,180.0,SUP20
+P232,Snacks,Chocolate,NovaFresh,136.15,83.67,730.0,SUP07
+P233,Snacks,Chocolate,DailyChoice,244.3,152.95,240.0,SUP17
+P234,Personal Care,Soap,Crispo,413.02,316.51,730.0,SUP09
+P235,Dairy,Cheese,FizzUp,440.21,308.03,365.0,SUP17
+P236,Grocery,Rice,FreshHome,160.4,121.27,180.0,SUP17
+P237,Beverages,Energy Drink,NovaFresh,68.56,54.56,90.0,SUP01
+P238,Personal Care,Shampoo,DailyChoice,213.32,138.86,30.0,SUP12
+P239,Beverages,Soft Drink,CoolBite,176.38,101.73,730.0,SUP05
+P240,Beverages,Soft Drink,Crispo,161.27,124.83,730.0,SUP16
+P241,Personal Care,Shampoo,GlowCare,455.28,252.74,730.0,SUP05
+P242,Household,Dishwash,FreshHome,77.81,48.85,30.0,SUP02
+P243,Beverages,Energy Drink,FizzUp,328.5,235.92,30.0,SUP16
+P244,Household,Detergent,Crispo,325.18,229.34,90.0,SUP14
+P245,Dairy,Butter,FizzUp,139.27,92.26,240.0,SUP12
+P246,Dairy,Milk,DailyChoice,210.47,142.47,90.0,SUP09
+P247,Frozen,Ice Cream,GlowCare,194.62,110.59,365.0,SUP04
+P248,Grocery,Oil,CoolBite,88.37,57.01,730.0,SUP06
+P249,Grocery,Spices,Crispo,490.89,333.41,730.0,SUP05
+P250,Dairy,Cheese,GlowCare,42.57,25.73,30.0,SUP11

@@ -1,0 +1,19 @@
+dataset,issue,count,action_taken
+transactions,Duplicate transaction IDs,1,Removed duplicate transaction records
+transactions,Negative quantity,1,Removed invalid sales quantities
+transactions,Invalid discount percentage,1,Removed invalid discount records
+transactions,Invalid transaction hour,1,Removed records with invalid hour
+transactions,Missing selling price,1,Filled using median selling price
+products,Duplicate product IDs,1,Removed duplicate products
+products,Invalid MRP,1,Removed invalid products
+products,Cost price greater than MRP,2,Removed economically invalid records
+products,Missing shelf life,1,Filled using median shelf life
+stores,Duplicate store IDs,1,Removed duplicate stores
+stores,Invalid floor area,1,Removed invalid store records
+stores,Invalid customer count,1,Removed invalid store records
+inventory,Duplicate date-store-product,2,Removed duplicate inventory records
+inventory,Missing received quantity,1,Replaced missing received quantity with 0
+inventory,Inventory arithmetic mismatch,7,Reconciled closing stock using inventory arithmetic
+external_factors,Missing temperature,1,Filled using median temperature
+external_factors,Negative rainfall,1,Replaced invalid rainfall with 0
+external_factors,Invalid weekend flag,1,Replaced invalid value with 0

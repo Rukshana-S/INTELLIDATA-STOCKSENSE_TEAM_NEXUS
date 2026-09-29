@@ -1,0 +1,4 @@
+Business_Question,Null_Hypothesis_H0,Alternative_Hypothesis_H1,Test_Used,Statistic,P_Value,Conclusion
+Do promotions significantly increase sales?,Mean sales are the same for promotion and non-promotion periods,Mean sales differ between promotion and non-promotion periods,Independent Samples t-test,7.5292103455881225,5.54445119826452e-12,Reject H0 - Statistically Significant
+Does mean demand differ across store types?,Mean demand is the same across all store types,At least one store type has different mean demand,One-way ANOVA,0.5847618406893393,0.5581062188974961,Fail to Reject H0 - Not Statistically Significant
+Is stock-out frequency associated with promotion status?,Promotion status and stock-out occurrence are independent,Promotion status and stock-out occurrence are associated,Chi-square Test of Independence,0.0,1.0,Fail to Reject H0 - Not Statistically Significant
