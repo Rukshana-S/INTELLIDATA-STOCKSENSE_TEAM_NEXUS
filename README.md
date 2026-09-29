@@ -103,3 +103,4 @@ Your VS Code should eventually look like:
  ├── 📄 .gitignore
  ├── 📄 README.md
  └── 📄 requirements.txt
+# INTELLIDATA-STOCKSENSE_TEAM_NEXUS
