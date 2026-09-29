@@ -104,3 +104,44 @@ Your VS Code should eventually look like:
  ├── 📄 README.md
  └── 📄 requirements.txt
 # INTELLIDATA-STOCKSENSE_TEAM_NEXUS
+
+## ROUND 3 — INTELLIGENCE LAYER & DASHBOARD
+
+### 1. Risk classification
+We use predictive modeling to classify stock-out risk based on probability:
+- **HIGH:** probability >= 0.70
+- **MEDIUM:** probability >= 0.40 and < 0.70
+- **LOW:** probability < 0.40
+
+### 2. Replenishment logic
+- **Recommended Stock:** 7-Day Forecast + Safety Stock
+- **Recommended Order:** max(0, Recommended Stock - Current Stock - Incoming Stock)
+
+### 3. Manager actions
+Based on risk level and recommended order:
+- **HIGH:** "URGENT REORDER" or "MONITOR STOCK"
+- **MEDIUM:** "PLAN REORDER" or "MONITOR"
+- **LOW:** "NORMAL REORDER" or "NO ACTION"
+
+### 4. Explainability
+- Evaluates Top features influencing stock-out predictions using `feature_importances_`.
+- Dynamic descriptions on the dashboard describing key drivers behind the high-risk scores.
+
+### 5. Dashboard
+- Created an interactive UI using Streamlit and Plotly.
+- Dynamic filtering by Store, Product, Category, and Risk Level.
+- Detailed KPIs, Visualizations (Risk Distribution, Demand vs. Stock Analysis), Manager Action Table, and high-risk prioritizations.
+
+### 6. What-If analysis
+- A scenario simulation tab to see how changes in Festival Demand Increase (%) or Supplier Delay affect Recommended Orders and Risk probabilities dynamically.
+
+### 7. How to run the dashboard
+First ensure the intelligence data is generated:
+```bash
+python dashboard/intelligence.py
+```
+Then start the application:
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
